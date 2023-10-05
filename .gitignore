@@ -1,3 +1,5 @@
 .idea
 .mvn
 HELP.md
+mvnw.cmd
+.gitignore
